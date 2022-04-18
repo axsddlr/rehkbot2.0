@@ -1,0 +1,6 @@
+requests==2.27.1
+ujson==5.2.0
+git+https://github.com/Rapptz/discord.py
+python-dotenv==0.20.0
+psutil==5.9.0
+googletrans==4.0.0rc1
